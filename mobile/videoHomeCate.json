@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "id": 10,
-      "name": "关注公众号",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN0138COxa2C4PLuRRahZ_!!913168420.png",
-      "url": "http://m.iqiyi.com/&&&ad-banner",
-      "type": "app://x5WebParse",
-      "types": "app://x5WebParse"
-    },
-    {
       "id": 20,
       "name": "腾讯视频",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01aFgIUa2C4PLu3OWYQ_!!913168420.jpg",
