@@ -16,12 +16,6 @@
           "url": "http://www.baidu.com"
         },
         {
-          "name": "口令查券",
-          "type": "app://chaquan",
-          "pic": "",
-          "url": "http://www.baidu.com"
-        },
-        {
           "name": "自定义网址",
           "type": "app://custom",
           "pic": "",
@@ -45,40 +39,10 @@
       "name": "在线影视",
       "data": [
         {
-          "name": "虎牙一起看",
-          "type": "app://customWeb",
-          "pic": "https://www.huya.com/favicon.ico",
-          "url": "https://www.huya.com/g/seeTogether"
-        },
-        {
-          "name": "斗鱼一起看",
-          "type": "app://customWeb",
-          "pic": "https://www.douyu.com/favicon.ico",
-          "url": "https://m.douyu.com/list/room?type=yqk"
-        },
-        {
-          "name": "爱奇艺一起看",
-          "type": "app://customWeb",
-          "pic": "https://www.iqiyi.com/favicon.ico",
-          "url": "https://m-live.iqiyi.com/cate/minishow&&&ad-banner"
-        },
-        {
-          "name": "网易一起看",
-          "type": "app://customWeb",
-          "pic": "https://www.asdf.com/favicon.ico",
-          "url": "https://h5.cc.163.com/g/65004/&&&ad-banner"
-        },
-        {
-          "name": "企鹅电竞",
-          "type": "app://x5WebParse",
-          "pic": "https://egame.qq.com/favicon.ico",
-          "url": "https://cdn.egame.qq.com/pgg-play/module/livelist.html?layoutid=2000000110"
-        },
-        {
-          "name": "蓝光高清",
+          "name": "YYDS影院",
           "type": "app://customWeb",
           "pic": "1",
-          "url": "https://www.magedn.com/"
+          "url": "https://www.yydsvod.com/"
         },
         {
           "name": "低端影视",
